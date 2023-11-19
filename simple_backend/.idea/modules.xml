@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kafka/simple_backend.app.kafka.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kafka/simple_backend.app.kafka.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/simple_backend.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/simple_backend.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/models/simple_backend.app.models.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/models/simple_backend.app.models.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/persistence/simple_backend.app.persistence.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/persistence/simple_backend.app.persistence.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rest/simple_backend.app.rest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rest/simple_backend.app.rest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/service/simple_backend.app.service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/service/simple_backend.app.service.main.iml" />
+    </modules>
+  </component>
+</project>

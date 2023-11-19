@@ -9,3 +9,5 @@ l
 <app/models/src/main/java/com/simple/models/enums/Gender.java,e/b/eb1ee0acafdf3508272fd109416861f1aea55a69
 |
 Lapp/models/src/main/java/com/simple/models/requests/SimpleCreateRequest.java,d/0/d0e727ab43c25a24ed3cc91f53e95d28cd3f69cd
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4

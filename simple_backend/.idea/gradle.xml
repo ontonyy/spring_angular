@@ -11,6 +11,9 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/kafka" />
             <option value="$PROJECT_DIR$/app/models" />
+            <option value="$PROJECT_DIR$/app/persistence" />
+            <option value="$PROJECT_DIR$/app/rest" />
+            <option value="$PROJECT_DIR$/app/service" />
           </set>
         </option>
       </GradleProjectSettings>

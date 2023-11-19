@@ -1,7 +1,0 @@
-apply plugin: 'org.springframework.boot'
-
-projects {
-    apply plugin: 'java-library'
-}
-
-apply from: "${project.rootDir}/gradle/config/docker.gradle"
